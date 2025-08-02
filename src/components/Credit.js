@@ -9,7 +9,7 @@ export default function Credit() {
       
       
         >
-          WasiQ,Visam,Sohaib
+          YKCODES
       
           </a  
       >, </p>
