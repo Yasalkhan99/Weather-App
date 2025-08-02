@@ -1,6 +1,6 @@
 # React Weather App
 
-![App Screenshot](images/weatherapp.png)
+![App Screenshot](images/weather.png)
 
 A simple and modern weather application built with React. This app allows users to search for current weather information for any city using a clean and responsive interface.
 
